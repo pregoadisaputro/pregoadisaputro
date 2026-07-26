@@ -1,16 +1,28 @@
-## Hi there 👋
+# Prego Adisaputro
 
-<!--
-**pregoadisaputro/pregoadisaputro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Undergraduate Computer Science student (B.Sc.) ath the University of Bina Sarana Informatika <br>
+Currently working on my Media Archive web based project [AfterHours](https://github.com/pregoadisaputro/AfterHours).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Interest
+
+- Fullstack Web Development
+- REST API
+- Database Related (e.g, PostgreSQL and SQLite) 
+- Javascript / React Lib
+- UI/UX Web Design
+
+---
+
+## Currently Learning
+
+- ASP.NET Core
+- React JS Lib
+
+-- 
+
+Based in Jakarta, Indonesia <br>
+*Contact*: pregoadisaputroo@gmail.com
