@@ -2,7 +2,7 @@
 
 ---
 
-Undergraduate Computer Science student (B.Sc.) ath the University of Bina Sarana Informatika <br>
+Undergraduate Computer Science student (B.Sc.) at University of Bina Sarana Informatika <br>
 Currently working on my Media Archive web based project [AfterHours](https://github.com/pregoadisaputro/AfterHours).
 
 ---
