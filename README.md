@@ -22,7 +22,7 @@ Currently working on my Media Archive web based project [AfterHours](https://git
 - ASP.NET Core
 - React JS Lib
 
--- 
+---
 
 Based in Jakarta, Indonesia <br>
 *Contact*: pregoadisaputroo@gmail.com
