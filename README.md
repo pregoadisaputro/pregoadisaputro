@@ -11,8 +11,7 @@ Currently working on my Media Archive web based project [AfterHours](https://git
 
 - Fullstack Web Development
 - REST API
-- Database Related (e.g, PostgreSQL and SQLite) 
-- Javascript / React Lib
+- Database Related (e.g, PostgreSQL and SQLite)
 - UI/UX Web Design
 
 ---
