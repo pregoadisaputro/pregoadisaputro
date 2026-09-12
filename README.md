@@ -2,8 +2,7 @@
 
 ---
 
-Undergraduate Computer Science student (B.Sc.) at University of Bina Sarana Informatika <br>
-Currently working on my media tracker Blazor project [AfterHours](https://github.com/pregoadisaputro/AfterHours).
+Undergraduate Computer Science student (B.Sc.) at University of Bina Sarana Informatika
 
 ---
 
