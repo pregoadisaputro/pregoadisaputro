@@ -8,17 +8,18 @@ Undergraduate Computer Science student (B.Sc.) at University of Bina Sarana Info
 
 ## Interest
 
-- Fullstack Web Development
+- Backend Developer
 - REST API
-- Database Related (e.g, PostgreSQL and SQLite)
+- Database Related (e.g, PostgreSQL & SQLite)
 - UI/UX Web Design
 
 ---
 
-## Currently Learning
+## Skills Currently
 
-- ASP.NET Core
-- React JS Lib
+- ASP.NET Core & Blazor
+- EF Core
+- PostgreSQL & SQLite
 
 ---
 
