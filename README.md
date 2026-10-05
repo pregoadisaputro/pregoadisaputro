@@ -2,23 +2,23 @@
 
 ---
 
-Undergraduate Computer Science student (B.Sc.) at University of Bina Sarana Informatika
+Backend-focused Computer Science student building applications with C#/.NET and relational databases.
 
 ---
 
 ## Interest
 
-- Backend Developer
-- REST API
-- Database Related (e.g, PostgreSQL & SQLite)
-- UI/UX Web Design
+- Backend Development
+- REST APIs
+- Databases
+- Web UI/UX
 
 ---
 
-## Skills Currently
+## Currently working with
 
 - ASP.NET Core & Blazor
-- EF Core
+- Entity Framework Core
 - PostgreSQL & SQLite
 
 ---
